@@ -18,4 +18,3 @@ doc下包含调用说明以及mysql脚本、
 发布时请打开FastDFSApplication的location指定默认文件。本地可直接运行Main方法进行调试
 
 
-> hmtool只支持jdk1.8以上的版本
